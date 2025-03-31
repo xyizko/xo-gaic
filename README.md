@@ -8,6 +8,7 @@
 
 1. [xo-gaic](#xo-gaic)
 2. [Important Links](#important-links)
+3. [Directories](#directories)
 
 
 # xo-gaic
@@ -20,3 +21,11 @@ Name | What
 :--: | :--: 
 [Course Intro](https://www.kaggle.com/learn-guide/5-day-genai) | General introduction to the course, note this looks like a repeat of the course from a few months ago
 [Whitepape Companion Podcase](https://www.youtube.com/watch?v=Na3O4Pkbp-U&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=2) | The paper has been made in to a podcast with [`NotebookLLM`](https://notebooklm.google/)
+[`5-Day Gen AI Intensive Course with GoogleAI`](https://youtube.com/playlist?list=PLqFaTIg4myu-lbBTrUpoQQIzZZxvrOaP5&si=GNRvBKv3qEofLiTA) | Claswork related youtube videos
+
+# Directories 
+
+Name | What 
+:--: | :--:
+[`nbs`](./nbs/) | Workbooks from the course, jupyter notebooks pushed from my kaggle
+[`cw`](./cw/) | Class/Course Work
