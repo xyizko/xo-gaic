@@ -17,3 +17,15 @@ Name | Description
 
 # Notes 
 
+1. Regarding `Top P` and Temparature 
+
+How They Work Together
+
+    Low temp + Low top-p → Very strict and predictable output.
+
+    High temp + High top-p → Wild, creative, and sometimes random output.
+
+    Low temp + High top-p → A mix of variety but still controlled.
+
+    High temp + Low top-p → Weird but within limits.
+
