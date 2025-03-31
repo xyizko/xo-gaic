@@ -13,9 +13,12 @@
 Name | Description
 :--: | :--:
 [WhitePaper Foundational LLM and Text Generation](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation) | This paper has been transformed into a [THIS](https://www.kaggle.com/whitepaper-foundational-llm-and-text-generation) podcast.
+[`Gemin CookBook`](https://github.com/google-gemini/cookbook) | Code Samples for common operations
 
 
 # Notes 
+
+# Day 1 - Prompting and Evaluation
 
 1. Regarding `Top P` and Temparature 
 
