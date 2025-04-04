@@ -22,6 +22,8 @@ Name | What
 [Course Intro](https://www.kaggle.com/learn-guide/5-day-genai) | General introduction to the course, note this looks like a repeat of the course from a few months ago
 [Whitepape Companion Podcast](https://www.youtube.com/watch?v=Na3O4Pkbp-U&list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE&index=2) | The paper has been made in to a podcast with [`NotebookLLM`](https://notebooklm.google/)
 [`5-Day Gen AI Intensive Course with GoogleAI`](https://youtube.com/playlist?list=PLqFaTIg4myu-lbBTrUpoQQIzZZxvrOaP5&si=GNRvBKv3qEofLiTA) | Claswork related youtube videos
+[Capstone Project](https://www.kaggle.com/competitions/gen-ai-intensive-course-capstone-2025q1/overview#submission-instructions) | After Completing the five days. This is the link with details of the capstone project 
+[Submission Details](https://docs.google.com/forms/d/e/1FAIpQLSdgQkXhdxp7hrcRDAyXHv3tCFA66XJINFQ_4wLRKE1ETUtAUQ/viewform) | Submission form for the CP , it will be a notebook, just like the other competitions on the platform
 
 # Directories 
 
