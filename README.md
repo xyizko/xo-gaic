@@ -31,3 +31,10 @@ Name | What
 :--: | :--:
 [`nbs`](./nbs/) | Workbooks from the course, jupyter notebooks pushed from my kaggle
 [`cw`](./cw/) | Class/Course Work
+
+# Capstone Project Submission 
+
+Details | Link 
+:--: | :--: 
+Submitted Notebook AI OSINT Tool  using Google AI | [`xgaicps`](https://www.kaggle.com/code/xyizko/xgaicps) 
+Hashnode Blog  | [AI Osint Tool Writeup](https://worx.hashnode.dev/ai-osint-recon-agent-powered-by-google-ai-studio-and-google-dorks)
