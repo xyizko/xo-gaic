@@ -9,6 +9,7 @@
 1. [xo-gaic](#xo-gaic)
 2. [Important Links](#important-links)
 3. [Directories](#directories)
+4. [Capstone Project Submission](#capstone-project-submission)
 
 
 # xo-gaic
