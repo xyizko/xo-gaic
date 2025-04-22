@@ -39,3 +39,7 @@ Details | Link
 :--: | :--: 
 Submitted Notebook AI OSINT Tool  using Google AI | [`xgaicps`](https://www.kaggle.com/code/xyizko/xgaicps) 
 Hashnode Blog  | [AI Osint Tool Writeup](https://worx.hashnode.dev/ai-osint-recon-agent-powered-by-google-ai-studio-and-google-dorks)
+
+# Cert
+
+[![](./gfx/c.png)](https://www.kaggle.com/certification/badges/xyizko/96)
